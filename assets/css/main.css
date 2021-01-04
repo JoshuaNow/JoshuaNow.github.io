@@ -4044,3 +4044,12 @@ li {
 	height: auto;
 
 }
+
+.nav:hover {
+	font-size: 1.15em;
+}
+
+
+.navUL {
+	list-style-type: none;
+}
